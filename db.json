@@ -2,8 +2,8 @@
   "products": [
     {
       "id": "1",
-      "name": "Camara",
-      "price": 500000,
+      "name": "televisor",
+      "price": 10000,
       "stock": 4,
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
       "images": [
