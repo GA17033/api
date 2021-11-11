@@ -183,5 +183,6 @@
     "description": "El Nokia Lumia 635 es un teléfono móvil inteligente producido por Nokia con sistema operativo Windows Phone lanzado en junio del 2014. Cuenta con pantalla Gorilla Glass, 8 GB de memoria.",
     "image": "https://th.bing.com/th/id/R.658417a8214181ccc48e3fba0f6dff8f?rik=xey5t9z%2bRrUIgw&pid=ImgRaw&r=0"
   }
-  ]
+  ],
+  "brands":["Samsumg","Huawei", "Nokia","Iphone","Xiomi"]
 }
